@@ -1,0 +1,237 @@
+
+/* Global styles == Start */ 
+
+
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p{
+    margin: 0;
+
+}
+body{
+background-color: #FED084;
+font-family: Arial;
+}
+/* Global styles == End */
+
+
+
+/* Header == Start */
+main{
+    max-width: 800px;
+    margin: 20px auto;
+    background-image: url(image/Screenshot_3.png);
+    color: white;
+}
+header .banner {
+    background-color: #191E32;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 50px 100px;
+}
+h1{
+    font-size:Arial;
+    color: #9D8B41;
+    font-size: 40px;
+    
+}
+h3 a{
+color: #9D8B41;  
+text-decoration: none;  
+}
+h4{
+    color: white;
+    font-size: 20px;
+}
+h5{
+color: white;    
+padding-right: 500px;
+}
+img{
+    max-width: 100%;
+    height: 50px;
+    padding-right: 500px;
+    
+    
+}
+h2{
+      
+     color: white;  
+}
+h6{
+color: white;   
+}
+header h1{
+    margin-bottom: 10px;
+    
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 35px;
+    border: 2px dotted white;
+    background-color: #06071B;
+    border-radius: 5px;
+    
+}
+nav ul li{}
+nav ul li a{
+    text-decoration: none;
+    color:white;
+}
+nav ul li a:hover{}
+/* Header == End */
+.main-menu-area h2{
+    background-color: red;
+}
+
+/* Main Content == Start */
+.main_content{
+    padding: 10px;
+    background-color: #ffffff;
+}
+.sidebar_article_area{
+    display: flex;
+}
+.sidebar_area{
+    width: 20%;
+}
+.article_aria{
+    width: 80%
+}
+.main_menu_aria h2 {
+    padding: 8px 18px;
+    font-size: 100px;
+    background-color: green;
+
+
+
+}
+.main_menu_area h2 i{
+    font-size: 18px
+    
+}
+.article_area{
+    display: flex;
+}
+footer{
+background-color: #06071B;
+text-align: center;    
+font-family: Arial;
+border: 1px inset red;
+
+}
+footer h2 a{
+color: white; 
+text-decoration: none;   
+}
+#valo h1{
+color: #fff;   
+text-align: center; 
+background-color: #191E32;
+}
+#footer-botton h2{
+color:#C49636;
+padding-left: 450px;    
+}
+#vertion h2{
+color: white;    
+}
+
+#mywebsaite h1{
+background-color:#06071B; 
+text-align: center;
+text-decoration: underline #1226FB;  
+color: #8C8B41; 
+padding: 20px;
+border: 2px dotted white;
+max-width: 811px;
+margin: 12px auto;
+}
+.logo-design img{
+height: 8% auto;
+    
+}
+iframe{
+    height: 380px;
+    width: 800px;
+}
+#imag-navbar img{
+max-width: 802;    
+}
+/* Main Content == End */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+z
